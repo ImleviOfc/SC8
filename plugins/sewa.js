@@ -20,7 +20,7 @@ Hai 👋
 ┣➲ bisa invite bot ke grup
 ┗━━━•❅•°•❈
 Contact person Owner:
-wa.me/6281511480762 (Owner)`
+wa.me/6285172446692 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C1BfTNk2/6bfc0fa448e61d8f7fe5323fcfd28518.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -30,15 +30,15 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Dana',
-               phoneNumber: '081511480762'
+               displayText: 'pulsa',
+               phoneNumber: '085172446692'
              }
 
            },
                {
              callButton: {
                displayText: 'Gopay',
-               phoneNumber: '081511480762'
+               phoneNumber: 'belum ada'
              }
            },           
                {
